@@ -4,9 +4,9 @@
 
 | | |
 |---|---|
-| Họ và tên | `<điền>` |
-| MSSV (đúng bằng `--student-id` bạn đã chạy) | `<điền>` |
-| GitHub | `<điền: tên tài khoản>` |
+| Họ và tên | `Vũ Quốc Huy` |
+| MSSV (đúng bằng `--student-id` bạn đã chạy) | `2A202602929` |
+| GitHub | `VuQuocHuy89` |
 | Seed chia dữ liệu / seed mô hình (xem `evidence/closedloop.json`, mục `student`) | `<điền>` |
 | Số seed huấn luyện bạn dùng (`--seeds`) | `<điền>` |
 
