@@ -1,5 +1,6 @@
 data/*.csv
 work/
+.venv/
 __pycache__/
 *.pyc
 viz/lab_models.js
